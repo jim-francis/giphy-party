@@ -1,0 +1,25 @@
+#imgs {
+    list-style-type: none;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 10px;
+}
+
+img {
+    height: 250px;
+}
+
+.formControl {
+    display: flex;
+    justify-content: center;
+}
+
+#remove {
+    margin-left: 4px;
+}
+h1{
+    display: flex;
+    justify-content: center;
+    font-size: 3em;
+}
